@@ -6,16 +6,19 @@ coreapi==2.3.3
 coreschema==0.0.4
 crispy-bootstrap4==2022.1
 crispy-bootstrap5==0.7
+distlib==0.3.7
 dj-database-url==2.0.0
 Django==4.1.6
 django-cors-headers==4.1.0
 django-crispy-forms==2.0
 django-dotenv==1.4.2
 django-email-users==1.1.0
+django-heroku==0.3.1
 djangorestframework==3.14.0
 djangorestframework-simplejwt==5.2.2
 drf-yasg==1.21.6
 et-xmlfile==1.1.0
+filelock==3.12.2
 greenlet==2.0.2
 gunicorn==21.2.0
 idna==3.4
@@ -34,6 +37,8 @@ openpyxl==3.1.0
 packaging==23.1
 pandas==1.5.3
 Pillow==9.5.0
+pipenv==2023.7.23
+platformdirs==3.10.0
 playwright==1.35.0
 protobuf==3.20.3
 psycopg2==2.9.6
@@ -55,5 +60,7 @@ uritemplate==4.1.1
 urllib3==2.0.3
 users==1.0.dev0
 v==1
+virtualenv==20.24.2
+virtualenv-clone==0.5.7
 whitenoise==6.5.0
 xlrd==2.0.1
