@@ -80,10 +80,10 @@ WSGI_APPLICATION = 'Todo.wsgi.application'
 DATABASES = {
     'default': {
         'ENGINE': 'django.db.backends.mysql',
-        'NAME': 'railway',
+        'NAME': 'todo',
         'USER': 'root',
-        'PASSWORD': 'OnyPq4n5gE2IVdjwElW6',
-        'HOST': 'containers-us-west-32.railway.app',
+        'PASSWORD': 'Root@123',
+        'HOST': 'localhost',
     }
 }
 
