@@ -12,7 +12,6 @@ django-cors-headers==4.1.0
 django-crispy-forms==2.0
 django-dotenv==1.4.2
 django-email-users==1.1.0
-django-heroku==0.3.1
 djangorestframework==3.14.0
 djangorestframework-simplejwt==5.2.2
 drf-yasg==1.21.6
