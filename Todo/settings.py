@@ -126,10 +126,10 @@ USE_TZ = True
 
 LOGIN_URL = 'login'
 
+CSRF_TRUSTED_ORIGINS = ['https://todo-production-907a.up.railway.app']
+
 # Static files (CSS, JavaScript, Images)
 # https://docs.djangoproject.com/en/4.1/howto/static-files/
-
-STATIC_URL = 'static/'
 
 # Default primary key field type
 # https://docs.djangoproject.com/en/4.1/ref/settings/#default-auto-field
